@@ -8,6 +8,7 @@ if (!sourceDir || !targetDir) {
   process.exit(1);
 }
 
+
 function syncDirectories(src, dest) {
   if (!fs.existsSync(dest)) {
     fs.mkdirSync(dest, { recursive: true });

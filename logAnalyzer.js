@@ -8,6 +8,7 @@ if (!logFile) {
   process.exit(1);
 }
 
+
 let totalLines = 0;
 let errorCount = 0;
 let warningCount = 0;

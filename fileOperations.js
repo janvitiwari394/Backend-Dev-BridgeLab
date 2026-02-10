@@ -31,6 +31,7 @@ switch (command) {
       console.log("File deleted successfully");
     });
     break;
+    
 
   case "list":
     fs.readdir(args[0] || ".", (err, files) => {
