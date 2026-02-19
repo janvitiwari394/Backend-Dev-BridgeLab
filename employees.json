@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1700000001,
+    "name": "Janvi tiwari",
+    "department": "HR",
+    "basicSalary": 700000
+  },
+  {
+    "id": 1700000002,
+    "name": "anamika",
+    "department": "HR",
+    "basicSalary": 45000
+  },
+  {
+    "id": 1771393253082,
+    "name": "Divyanshi",
+    "department": "Finance",
+    "basicSalary": 1000000
+  }
+]
